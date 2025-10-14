@@ -1,0 +1,12 @@
+namespace: ruchithagowda10
+name: demo_collection
+version: 1.0.0
+readme: README.md
+authors:
+  - Ruchitha Gowda
+description: Ansible collection to install Nginx.
+license: MIT
+tags:
+  - web
+  - nginx
+repository: https://github.com/RuchithaGowda10/demo_collection
